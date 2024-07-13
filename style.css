@@ -1,0 +1,18 @@
+.calculator {
+    width: 250px;
+    margin: 0 auto;
+    text-align: center;
+   }
+   input {
+    width: 100%;
+   }
+   button {
+    width: 30%;
+    margin: 5px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    cursor: pointer;
+   }

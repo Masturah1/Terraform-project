@@ -1,0 +1,20 @@
+{
+  "name": "new-app",
+  "version": "1.0.0",
+  "description": "A simple CI demo for my DevOps tutorial series",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No test specified\"",
+    "lint": "eslint .",
+    "build": "echo \"Build script not specified\""
+  },
+  "dependencies": {
+    "chai": "^4.3.7",
+    "express": "^4.19.2",
+    "mocha": "^10.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
